@@ -1,8 +1,0 @@
-- Tester dans une VM
-- mariadb doit être pid 1 // jsp si je dois vraiment le faire parce que là je comprends pas
-- remplacer path volume une fois sur un mac de l'école
-//- Faire un Makefile
-//- Erreur 502 quand je choisis que TLSv1.2
-//- docker secrets ?/ c'est juste plus safe que .env parce que c'est encrypté
-//- pk j'ai pas toutes les images de wp // ça s'est réglé tout seul
-//- lien https login (à modifier avec sudo vim /etc/hosts localhost)
